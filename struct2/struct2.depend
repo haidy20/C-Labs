@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1697542347 source:c:\users\user\desktop\my projects\struct2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+

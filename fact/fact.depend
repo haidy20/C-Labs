@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698093991 source:c:\users\user\desktop\my projects\fact\main.c
+	<stdio.h>
+	<stdlib.h>
+

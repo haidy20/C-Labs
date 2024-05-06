@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697459181 source:c:\users\user\desktop\my projects\two_arr_dyn\main.c
+	<stdio.h>
+	<stdlib.h>
+

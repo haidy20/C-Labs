@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697462730 source:c:\users\user\desktop\my projects\pointer_struct\main.c
+	<stdio.h>
+	<stdlib.h>
+
